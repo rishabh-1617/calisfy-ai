@@ -1,0 +1,110 @@
+[
+  {
+    "id": "plan-1",
+    "name": "Upper Body Push & Pull",
+    "focus": "Strength & Hypertrophy",
+    "estimatedMinutes": 40,
+    "items": [
+      {
+        "id": "pi-1",
+        "exerciseId": "ex-1",
+        "sets": 3,
+        "value": 10,
+        "rest": 60
+      },
+      {
+        "id": "pi-2",
+        "exerciseId": "ex-2",
+        "sets": 4,
+        "value": 8,
+        "rest": 90
+      },
+      {
+        "id": "pi-3",
+        "exerciseId": "ex-8",
+        "sets": 4,
+        "value": 10,
+        "rest": 90
+      },
+      {
+        "id": "pi-4",
+        "exerciseId": "ex-3",
+        "sets": 3,
+        "value": 12,
+        "rest": 75
+      }
+    ]
+  },
+  {
+    "id": "plan-2",
+    "name": "Handstand & Straight-Arm Skills",
+    "focus": "Skill & Isometric Control",
+    "estimatedMinutes": 35,
+    "items": [
+      {
+        "id": "pi-5",
+        "exerciseId": "ex-7",
+        "sets": 3,
+        "value": 30,
+        "rest": 60
+      },
+      {
+        "id": "pi-6",
+        "exerciseId": "ex-5",
+        "sets": 4,
+        "value": 30,
+        "rest": 90
+      },
+      {
+        "id": "pi-7",
+        "exerciseId": "ex-4",
+        "sets": 4,
+        "value": 20,
+        "rest": 90
+      },
+      {
+        "id": "pi-8",
+        "exerciseId": "ex-6",
+        "sets": 4,
+        "value": 15,
+        "rest": 90
+      }
+    ]
+  },
+  {
+    "id": "plan-3",
+    "name": "Lower Body & Core Compression",
+    "focus": "Unilateral Power & Core",
+    "estimatedMinutes": 30,
+    "items": [
+      {
+        "id": "pi-9",
+        "exerciseId": "ex-11",
+        "sets": 3,
+        "value": 6,
+        "rest": 90
+      },
+      {
+        "id": "pi-10",
+        "exerciseId": "ex-12",
+        "sets": 3,
+        "value": 5,
+        "rest": 120
+      },
+      {
+        "id": "pi-11",
+        "exerciseId": "ex-9",
+        "sets": 3,
+        "value": 10,
+        "rest": 75
+      },
+      {
+        "id": "pi-12",
+        "exerciseId": "ex-15",
+        "sets": 3,
+        "value": 25,
+        "rest": 60
+      }
+    ]
+  }
+]

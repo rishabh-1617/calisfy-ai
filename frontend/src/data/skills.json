@@ -1,0 +1,242 @@
+[
+  {
+    "id": "skill-pushup",
+    "name": "Push-Up Mastery",
+    "category": "Horizontal Push",
+    "subtitle": "Build pressing mechanics from incline to explosive & archer variations",
+    "stages": [
+      {
+        "id": "pu-1",
+        "title": "Incline Push-Ups",
+        "metricType": "reps",
+        "targetSets": 3,
+        "targetValue": 15,
+        "bestLogged": 15,
+        "status": "completed",
+        "tips": "Keep shoulders depressed and body in a rigid plank."
+      },
+      {
+        "id": "pu-2",
+        "title": "Strict Floor Push-Ups",
+        "metricType": "reps",
+        "targetSets": 3,
+        "targetValue": 15,
+        "bestLogged": 15,
+        "status": "completed",
+        "tips": "Chest touches floor; full scapular protraction at top."
+      },
+      {
+        "id": "pu-3",
+        "title": "Diamond Push-Ups",
+        "metricType": "reps",
+        "targetSets": 3,
+        "targetValue": 12,
+        "bestLogged": 10,
+        "status": "current",
+        "tips": "Elbows track close to ribs; lock triceps cleanly."
+      },
+      {
+        "id": "pu-4",
+        "title": "Archer Push-Ups",
+        "metricType": "reps",
+        "targetSets": 3,
+        "targetValue": 8,
+        "bestLogged": 0,
+        "status": "locked",
+        "tips": "Keep assisting arm straight while lowering toward working side."
+      }
+    ]
+  },
+  {
+    "id": "skill-pullup",
+    "name": "Pull-Up & Muscle-Up",
+    "category": "Vertical Pull",
+    "subtitle": "Progress from scapular activation to strict bar muscle-up",
+    "stages": [
+      {
+        "id": "pl-1",
+        "title": "Scapular Pull-Ups",
+        "metricType": "reps",
+        "targetSets": 3,
+        "targetValue": 12,
+        "bestLogged": 12,
+        "status": "completed",
+        "tips": "Depress shoulder blades with locked elbows."
+      },
+      {
+        "id": "pl-2",
+        "title": "Strict Pull-Ups",
+        "metricType": "reps",
+        "targetSets": 4,
+        "targetValue": 10,
+        "bestLogged": 8,
+        "status": "current",
+        "tips": "Dead hang start to chin clearly over bar."
+      },
+      {
+        "id": "pl-3",
+        "title": "Chest-to-Bar Pull-Ups",
+        "metricType": "reps",
+        "targetSets": 3,
+        "targetValue": 8,
+        "bestLogged": 0,
+        "status": "locked",
+        "tips": "Drive elbows down and back explosively."
+      },
+      {
+        "id": "pl-4",
+        "title": "Strict Bar Muscle-Up",
+        "metricType": "reps",
+        "targetSets": 3,
+        "targetValue": 3,
+        "bestLogged": 0,
+        "status": "locked",
+        "tips": "Pull high to sternum and transition chest forward over bar."
+      }
+    ]
+  },
+  {
+    "id": "skill-handstand",
+    "name": "Freestanding Handstand",
+    "category": "Overhead Balance",
+    "subtitle": "Develop wrist control, hollow alignment, and vertical balance",
+    "stages": [
+      {
+        "id": "hs-1",
+        "title": "Pike Hold (Feet Elevated)",
+        "metricType": "seconds",
+        "targetSets": 3,
+        "targetValue": 30,
+        "bestLogged": 30,
+        "status": "completed",
+        "tips": "Stack hips directly over wrists."
+      },
+      {
+        "id": "hs-2",
+        "title": "Chest-to-Wall Handstand",
+        "metricType": "seconds",
+        "targetSets": 4,
+        "targetValue": 40,
+        "bestLogged": 32,
+        "status": "current",
+        "tips": "Push tall through shoulders and tuck ribs."
+      },
+      {
+        "id": "hs-3",
+        "title": "Wall Toe-Pull Balance Drills",
+        "metricType": "seconds",
+        "targetSets": 4,
+        "targetValue": 20,
+        "bestLogged": 0,
+        "status": "locked",
+        "tips": "Use finger pressure to catch overbalance gently."
+      },
+      {
+        "id": "hs-4",
+        "title": "Freestanding Handstand Hold",
+        "metricType": "seconds",
+        "targetSets": 4,
+        "targetValue": 15,
+        "bestLogged": 0,
+        "status": "locked",
+        "tips": "Maintain quiet hollow line with micro-adjustments at wrists."
+      }
+    ]
+  },
+  {
+    "id": "skill-planche",
+    "name": "Full Planche",
+    "category": "Straight-Arm Push",
+    "subtitle": "Condition bicep tendons and anterior deltoids for horizontal balance",
+    "stages": [
+      {
+        "id": "pn-1",
+        "title": "Scapular Push-Up Plank",
+        "metricType": "seconds",
+        "targetSets": 3,
+        "targetValue": 30,
+        "bestLogged": 30,
+        "status": "completed",
+        "tips": "Hold maximum protraction with locked elbows."
+      },
+      {
+        "id": "pn-2",
+        "title": "Pseudo Planche Lean",
+        "metricType": "seconds",
+        "targetSets": 4,
+        "targetValue": 25,
+        "bestLogged": 20,
+        "status": "current",
+        "tips": "Lean shoulders past wrists without bending arms."
+      },
+      {
+        "id": "pn-3",
+        "title": "Tuck Planche Hold",
+        "metricType": "seconds",
+        "targetSets": 4,
+        "targetValue": 15,
+        "bestLogged": 0,
+        "status": "locked",
+        "tips": "Keep hips level with shoulders."
+      },
+      {
+        "id": "pn-4",
+        "title": "Straddle Planche Hold",
+        "metricType": "seconds",
+        "targetSets": 4,
+        "targetValue": 10,
+        "bestLogged": 0,
+        "status": "locked",
+        "tips": "Extend legs wide while maintaining posterior pelvic tilt."
+      }
+    ]
+  },
+  {
+    "id": "skill-lever",
+    "name": "Front Lever",
+    "category": "Straight-Arm Pull",
+    "subtitle": "Master horizontal lat depression and anti-extension core tension",
+    "stages": [
+      {
+        "id": "fl-1",
+        "title": "Active Dead Hang",
+        "metricType": "seconds",
+        "targetSets": 3,
+        "targetValue": 45,
+        "bestLogged": 45,
+        "status": "completed",
+        "tips": "Keep shoulders depressed away from ears."
+      },
+      {
+        "id": "fl-2",
+        "title": "Tuck Front Lever Hold",
+        "metricType": "seconds",
+        "targetSets": 4,
+        "targetValue": 20,
+        "bestLogged": 15,
+        "status": "current",
+        "tips": "Lock elbows and keep back parallel to floor."
+      },
+      {
+        "id": "fl-3",
+        "title": "Advanced Tuck Front Lever",
+        "metricType": "seconds",
+        "targetSets": 4,
+        "targetValue": 15,
+        "bestLogged": 0,
+        "status": "locked",
+        "tips": "Open hip angle to 90 degrees with flat back."
+      },
+      {
+        "id": "fl-4",
+        "title": "Full Front Lever Hold",
+        "metricType": "seconds",
+        "targetSets": 4,
+        "targetValue": 10,
+        "bestLogged": 0,
+        "status": "locked",
+        "tips": "Squeeze glutes and push down hard on the bar."
+      }
+    ]
+  }
+]

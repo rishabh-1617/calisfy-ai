@@ -1,0 +1,27 @@
+version: "3.9"
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: calisfy
+      POSTGRES_PASSWORD: calisfy_dev_password
+      POSTGRES_DB: calisfy_db
+    ports:
+      - "5432:5432"
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql+psycopg://calisfy:calisfy_dev_password@db:5432/calisfy_db
+      JWT_SECRET: change-me-in-production
+    depends_on:
+      - db
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:8000/api/v1
+    depends_on:
+      - backend

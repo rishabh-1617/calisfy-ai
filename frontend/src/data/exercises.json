@@ -1,0 +1,897 @@
+[
+  {
+    "id": "ex-1",
+    "name": "Scapular Pull-Ups",
+    "category": "Pull",
+    "muscleGroup": "Upper Back",
+    "secondaryMuscles": [
+      "Lats",
+      "Forearms"
+    ],
+    "difficulty": "Beginner",
+    "equipment": "Pull-up Bar",
+    "isHold": false,
+    "defaultSets": 3,
+    "defaultValue": 10,
+    "defaultRest": 60,
+    "poseType": "scapular_pull",
+    "description": "Initiate vertical pulling by depressing and retracting the shoulder blades with straight elbows.",
+    "instructions": [
+      "Hang from the bar with an overhand shoulder-width grip and straight elbows.",
+      "Pull your shoulder blades down away from your ears without bending your arms.",
+      "Hold peak depression for 1 second, then lower under control."
+    ],
+    "mistakes": [
+      "Bending the elbows to cheat range of motion.",
+      "Shrugging shoulders forward at the bottom."
+    ],
+    "safetyTips": [
+      "Keep ribs tucked and avoid hyperextending the lower back."
+    ]
+  },
+  {
+    "id": "ex-2",
+    "name": "Strict Pull-Ups",
+    "category": "Pull",
+    "muscleGroup": "Lats",
+    "secondaryMuscles": [
+      "Upper Back",
+      "Biceps",
+      "Forearms"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "Pull-up Bar",
+    "isHold": false,
+    "defaultSets": 4,
+    "defaultValue": 8,
+    "defaultRest": 90,
+    "poseType": "pullup",
+    "description": "Foundational vertical pull building lat width, scapular control, and upper-body strength.",
+    "instructions": [
+      "Start from a dead hang with hollow body tension and legs together.",
+      "Drive elbows down toward your hips until your chin clears the bar.",
+      "Lower for a full 2-second eccentric back to dead hang."
+    ],
+    "mistakes": [
+      "Kipping or swinging the knees for momentum.",
+      "Stopping short of full elbow extension at the bottom."
+    ],
+    "safetyTips": [
+      "Warm up wrists and scapulae before heavy sets."
+    ]
+  },
+  {
+    "id": "ex-3",
+    "name": "Diamond Push-Ups",
+    "category": "Push",
+    "muscleGroup": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "difficulty": "Beginner",
+    "equipment": "None",
+    "isHold": false,
+    "defaultSets": 3,
+    "defaultValue": 12,
+    "defaultRest": 75,
+    "poseType": "pushup",
+    "description": "Close-grip pressing variation emphasizing medial chest and triceps lockout strength.",
+    "instructions": [
+      "Place hands under your sternum with thumbs and index fingers forming a diamond.",
+      "Lower chest to your hands while keeping elbows tucked at 30 degrees.",
+      "Press explosively back to full protraction at the top."
+    ],
+    "mistakes": [
+      "Letting hips sag below shoulder-to-ankle alignment.",
+      "Flaring elbows wide to 90 degrees."
+    ],
+    "safetyTips": [
+      "Rotate hands slightly outward if wrists feel tight."
+    ]
+  },
+  {
+    "id": "ex-4",
+    "name": "Pseudo Planche Lean",
+    "category": "Static/Skill",
+    "muscleGroup": "Shoulders",
+    "secondaryMuscles": [
+      "Chest",
+      "Abs",
+      "Biceps"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "Parallettes",
+    "isHold": true,
+    "defaultSets": 4,
+    "defaultValue": 20,
+    "defaultRest": 90,
+    "poseType": "planche",
+    "description": "Straight-arm anterior deltoid and bicep tendon conditioning essential for planche progressions.",
+    "instructions": [
+      "Grip parallettes in a high plank with elbows completely locked.",
+      "Protract shoulder blades and lean shoulders forward past your wrists.",
+      "Squeeze glutes and hold steady breathing for prescribed seconds."
+    ],
+    "mistakes": [
+      "Allowing elbows to bend slightly under load.",
+      "Dropping hips or losing scapular protraction."
+    ],
+    "safetyTips": [
+      "Progress lean angle gradually over weeks to protect distal bicep tendons."
+    ]
+  },
+  {
+    "id": "ex-5",
+    "name": "Chest-to-Wall Handstand",
+    "category": "Static/Skill",
+    "muscleGroup": "Shoulders",
+    "secondaryMuscles": [
+      "Triceps",
+      "Upper Back",
+      "Abs"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "None",
+    "isHold": true,
+    "defaultSets": 4,
+    "defaultValue": 30,
+    "defaultRest": 90,
+    "poseType": "handstand",
+    "description": "Builds true overhead vertical alignment, wrist balance, and full-body hollow line.",
+    "instructions": [
+      "Walk feet up the wall until hands are 10–15 cm from the baseboard.",
+      "Push tall through the floor, elevating shoulders toward ears.",
+      "Tuck ribs in and lightly tap one toe off the wall to find balance."
+    ],
+    "mistakes": [
+      "Arching the lower back into a banana shape.",
+      "Looking forward instead of at the space between thumbs."
+    ],
+    "safetyTips": [
+      "Always practice cartwheel bail-outs before kicking up freestanding."
+    ]
+  },
+  {
+    "id": "ex-6",
+    "name": "Tuck Front Lever Hold",
+    "category": "Static/Skill",
+    "muscleGroup": "Lats",
+    "secondaryMuscles": [
+      "Upper Back",
+      "Abs",
+      "Rear Delts"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "Pull-up Bar",
+    "isHold": true,
+    "defaultSets": 4,
+    "defaultValue": 15,
+    "defaultRest": 90,
+    "poseType": "lever",
+    "description": "Horizontal straight-arm pulling isometric developing immense lat and core tension.",
+    "instructions": [
+      "Hang with straight arms and pull knees tightly into your chest.",
+      "Depress scapulae and push down on the bar until your back is parallel to the floor.",
+      "Lock elbows completely throughout the entire hold."
+    ],
+    "mistakes": [
+      "Bending arms to keep hips elevated.",
+      "Letting hips drop below shoulder height."
+    ],
+    "safetyTips": [
+      "Stop the set as soon as your back drops below horizontal."
+    ]
+  },
+  {
+    "id": "ex-7",
+    "name": "Hollow Body Hold",
+    "category": "Core",
+    "muscleGroup": "Abs",
+    "secondaryMuscles": [
+      "Quads"
+    ],
+    "difficulty": "Beginner",
+    "equipment": "None",
+    "isHold": true,
+    "defaultSets": 3,
+    "defaultValue": 30,
+    "defaultRest": 60,
+    "poseType": "hollow",
+    "description": "Core gymnastics tension drill linking ribs to pelvis for handstands and levers.",
+    "instructions": [
+      "Lie supine and press your lower back firmly into the floor.",
+      "Lift shoulders and straight legs 15 cm off the ground.",
+      "Reach arms overhead while maintaining zero gap under your lumbar spine."
+    ],
+    "mistakes": [
+      "Lower back lifting off the floor.",
+      "Holding breath instead of shallow braced breathing."
+    ],
+    "safetyTips": [
+      "Bend knees slightly if lower back lifts off the mat."
+    ]
+  },
+  {
+    "id": "ex-8",
+    "name": "Parallel Bar Dips",
+    "category": "Push",
+    "muscleGroup": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "difficulty": "Beginner",
+    "equipment": "Parallettes",
+    "isHold": false,
+    "defaultSets": 4,
+    "defaultValue": 10,
+    "defaultRest": 90,
+    "poseType": "dips",
+    "description": "Compound vertical pressing exercise for chest, anterior delts, and triceps power.",
+    "instructions": [
+      "Support yourself on parallel bars with locked elbows and depressed shoulders.",
+      "Lower under control until shoulders descend slightly below elbow height.",
+      "Press back up to full lockout without swinging."
+    ],
+    "mistakes": [
+      "Shrugging shoulders up toward ears at the bottom.",
+      "Cutting depth short at 45 degrees."
+    ],
+    "safetyTips": [
+      "Avoid excessive forward neck jutting during pressing."
+    ]
+  },
+  {
+    "id": "ex-9",
+    "name": "Hanging Leg Raises",
+    "category": "Core",
+    "muscleGroup": "Abs",
+    "secondaryMuscles": [
+      "Forearms",
+      "Quads"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "Pull-up Bar",
+    "isHold": false,
+    "defaultSets": 3,
+    "defaultValue": 10,
+    "defaultRest": 75,
+    "poseType": "leg_raise",
+    "description": "Dynamic compression strength raising straight legs all the way to the bar.",
+    "instructions": [
+      "Hang from the bar with active shoulders and straight knees.",
+      "Curl pelvis upward and raise toes smoothly to touch the bar.",
+      "Lower legs slowly without swinging backward."
+    ],
+    "mistakes": [
+      "Using hip swing momentum instead of posterior pelvic tilt.",
+      "Bending knees halfway up."
+    ],
+    "safetyTips": [
+      "Control the descent to protect lower back and grip."
+    ]
+  },
+  {
+    "id": "ex-10",
+    "name": "Ring Rear Delt Rows",
+    "category": "Pull",
+    "muscleGroup": "Rear Delts",
+    "secondaryMuscles": [
+      "Upper Back",
+      "Biceps"
+    ],
+    "difficulty": "Beginner",
+    "equipment": "Rings",
+    "isHold": false,
+    "defaultSets": 3,
+    "defaultValue": 12,
+    "defaultRest": 60,
+    "poseType": "ring_row",
+    "description": "Horizontal pull targeting rear deltoids and mid-back postural stabilizers.",
+    "instructions": [
+      "Set rings at waist height and walk feet forward into a rigid incline plank.",
+      "Pull rings wide toward your upper chest with high elbows.",
+      "Squeeze shoulder blades together for 1 second before lowering."
+    ],
+    "mistakes": [
+      "Dropping hips during the pull.",
+      "Rolling shoulders forward at the top of the rep."
+    ],
+    "safetyTips": [
+      "Adjust foot angle to scale resistance cleanly."
+    ]
+  },
+  {
+    "id": "ex-11",
+    "name": "Pistol Squat",
+    "category": "Legs",
+    "muscleGroup": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "difficulty": "Advanced",
+    "equipment": "None",
+    "isHold": false,
+    "defaultSets": 3,
+    "defaultValue": 6,
+    "defaultRest": 90,
+    "poseType": "squat",
+    "description": "Unilateral lower-body strength, ankle mobility, and balance mastery.",
+    "instructions": [
+      "Stand on one leg with the opposite leg extended straight in front.",
+      "Sit hips back and down until hamstring covers calf.",
+      "Drive through mid-foot to stand tall without bouncing."
+    ],
+    "mistakes": [
+      "Heel lifting off the ground at bottom depth.",
+      "Knee collapsing inward during ascent."
+    ],
+    "safetyTips": [
+      "Elevate heel on a small wedge if ankle dorsiflexion is limited."
+    ]
+  },
+  {
+    "id": "ex-12",
+    "name": "Nordic Hamstring Curl",
+    "category": "Legs",
+    "muscleGroup": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "difficulty": "Advanced",
+    "equipment": "None",
+    "isHold": false,
+    "defaultSets": 3,
+    "defaultValue": 5,
+    "defaultRest": 120,
+    "poseType": "nordic",
+    "description": "High-tension eccentric hamstring strengthening for posterior chain resilience.",
+    "instructions": [
+      "Kneel on a padded mat with ankles securely anchored.",
+      "Keep hips extended and lower torso toward the floor as slowly as possible.",
+      "Catch with hands at the bottom and lightly push back to start."
+    ],
+    "mistakes": [
+      "Hinging at the hips instead of keeping thighs and torso aligned."
+    ],
+    "safetyTips": [
+      "Keep volume low (3–5 reps) due to intense eccentric load."
+    ]
+  },
+  {
+    "id": "ex-13",
+    "name": "Active Dead Hang",
+    "category": "Pull",
+    "muscleGroup": "Forearms",
+    "secondaryMuscles": [
+      "Lats",
+      "Upper Back"
+    ],
+    "difficulty": "Beginner",
+    "equipment": "Pull-up Bar",
+    "isHold": true,
+    "defaultSets": 3,
+    "defaultValue": 40,
+    "defaultRest": 60,
+    "poseType": "dead_hang",
+    "description": "Decompresses the spine while building crushing grip endurance and shoulder stability.",
+    "instructions": [
+      "Wrap thumbs around the bar with a firm overhand grip.",
+      "Engage shoulders slightly downward so ears stay clear of biceps.",
+      "Breathe steadily and maintain quiet legs."
+    ],
+    "mistakes": [
+      "Completely relaxing shoulders into passive joint hang."
+    ],
+    "safetyTips": [
+      "Step down gently rather than dropping from height."
+    ]
+  },
+  {
+    "id": "ex-14",
+    "name": "Supinated Chin-Ups",
+    "category": "Pull",
+    "muscleGroup": "Biceps",
+    "secondaryMuscles": [
+      "Lats",
+      "Upper Back"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "Pull-up Bar",
+    "isHold": false,
+    "defaultSets": 3,
+    "defaultValue": 8,
+    "defaultRest": 90,
+    "poseType": "chinup",
+    "description": "Underhand vertical pull maximizing bicep and lower-lat recruitment.",
+    "instructions": [
+      "Grip the bar shoulder-width with palms facing toward you.",
+      "Pull chest toward the bar while keeping elbows close to your ribs.",
+      "Lower all the way until arms are completely straight."
+    ],
+    "mistakes": [
+      "Half-reps without full bottom extension."
+    ],
+    "safetyTips": [
+      "Use rings if straight-bar supination strains wrists or elbows."
+    ]
+  },
+  {
+    "id": "ex-15",
+    "name": "Arch Body Hold",
+    "category": "Core",
+    "muscleGroup": "Glutes",
+    "secondaryMuscles": [
+      "Upper Back",
+      "Hamstrings"
+    ],
+    "difficulty": "Beginner",
+    "equipment": "None",
+    "isHold": true,
+    "defaultSets": 3,
+    "defaultValue": 25,
+    "defaultRest": 60,
+    "poseType": "arch_hold",
+    "description": "Posterior chain isometric strengthening lower back, glutes, and thoracic extensors.",
+    "instructions": [
+      "Lie face down with arms extended overhead and legs straight.",
+      "Squeeze glutes and lift chest and thighs smoothly off the floor.",
+      "Keep neck neutral looking down at the mat."
+    ],
+    "mistakes": [
+      "Cranking the neck upward instead of lifting through thoracic spine."
+    ],
+    "safetyTips": [
+      "Focus on glute contraction to protect the lumbar spine."
+    ]
+  },
+  {
+    "id": "ex-16",
+    "name": "Archer Push-Ups",
+    "category": "Push",
+    "muscleGroup": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "None",
+    "isHold": false,
+    "defaultSets": 3,
+    "defaultValue": 8,
+    "defaultRest": 90,
+    "poseType": "pushup",
+    "description": "Unilateral pressing progression shifting load onto one arm while the assisting arm stays straight.",
+    "instructions": [
+      "Set hands wider than shoulder-width with fingers angled slightly outward.",
+      "Lower chest toward your working hand while keeping the opposite arm straight.",
+      "Press smoothly back to center lockout and alternate sides."
+    ],
+    "mistakes": [
+      "Bending the straight assisting arm to share load.",
+      "Twisting hips away from the floor."
+    ],
+    "safetyTips": [
+      "Elevate the assisting hand on a low block if shoulder mobility feels tight."
+    ]
+  },
+  {
+    "id": "ex-17",
+    "name": "Elevated Pike Push-Ups",
+    "category": "Push",
+    "muscleGroup": "Shoulders",
+    "secondaryMuscles": [
+      "Triceps",
+      "Upper Back"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "None",
+    "isHold": false,
+    "defaultSets": 4,
+    "defaultValue": 8,
+    "defaultRest": 90,
+    "poseType": "pike_pushup",
+    "description": "Vertical overhead pressing builder bridging floor push-ups and freestanding handstand push-ups.",
+    "instructions": [
+      "Place toes on a box or bench and walk hands back until torso is near vertical.",
+      "Lower crown of your head forward in front of your hands to form a tripod.",
+      "Press through palms and shrug tall at full elbow lockout."
+    ],
+    "mistakes": [
+      "Lowering head directly between hands instead of forward.",
+      "Flaring elbows wide outward."
+    ],
+    "safetyTips": [
+      "Use a folded mat under your head target for depth consistency."
+    ]
+  },
+  {
+    "id": "ex-18",
+    "name": "Strict Bar Muscle-Up",
+    "category": "Pull",
+    "muscleGroup": "Lats",
+    "secondaryMuscles": [
+      "Chest",
+      "Triceps",
+      "Upper Back",
+      "Forearms"
+    ],
+    "difficulty": "Advanced",
+    "equipment": "Pull-up Bar",
+    "isHold": false,
+    "defaultSets": 3,
+    "defaultValue": 3,
+    "defaultRest": 150,
+    "poseType": "muscle_up",
+    "description": "Explosive vertical pull transitioning smoothly over the bar into a straight-bar dip lockout.",
+    "instructions": [
+      "Start with a false or strong overhand grip and initiate an explosive pull to the sternum.",
+      "Lean chest forward over the bar as elbows drive backward.",
+      "Press down firmly to lock out elbows above the bar."
+    ],
+    "mistakes": [
+      "Chicken-winging one elbow over the bar before the other.",
+      "Excessive knee swinging."
+    ],
+    "safetyTips": [
+      "Master 10+ chest-to-bar pull-ups and 15+ straight-bar dips first."
+    ]
+  },
+  {
+    "id": "ex-19",
+    "name": "Australian Body Rows",
+    "category": "Pull",
+    "muscleGroup": "Upper Back",
+    "secondaryMuscles": [
+      "Rear Delts",
+      "Biceps",
+      "Forearms"
+    ],
+    "difficulty": "Beginner",
+    "equipment": "Pull-up Bar",
+    "isHold": false,
+    "defaultSets": 3,
+    "defaultValue": 12,
+    "defaultRest": 60,
+    "poseType": "ring_row",
+    "description": "Foundational horizontal pulling movement building mid-back thickness and scapular retraction.",
+    "instructions": [
+      "Set a low bar at hip height and hold a rigid plank with heels planted.",
+      "Pull sternum cleanly to the bar while squeezing shoulder blades together.",
+      "Lower under control to full elbow extension."
+    ],
+    "mistakes": [
+      "Sagging hips or craning neck forward to touch the bar."
+    ],
+    "safetyTips": [
+      "Keep wrists neutral and core braced throughout every rep."
+    ]
+  },
+  {
+    "id": "ex-20",
+    "name": "Parallel Bar L-Sit",
+    "category": "Static/Skill",
+    "muscleGroup": "Abs",
+    "secondaryMuscles": [
+      "Quads",
+      "Triceps",
+      "Shoulders"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "Parallettes",
+    "isHold": true,
+    "defaultSets": 4,
+    "defaultValue": 15,
+    "defaultRest": 75,
+    "poseType": "lsit",
+    "description": "Full-body compression and scapular depression hold suspending legs parallel to the floor.",
+    "instructions": [
+      "Press down hard into parallettes with locked elbows and depressed shoulders.",
+      "Lift straight legs together to 90 degrees with pointed toes.",
+      "Breathe steadily while fighting quad and hip-flexor cramping."
+    ],
+    "mistakes": [
+      "Sinking shoulders up toward ears.",
+      "Bending knees or letting heels drop below hip level."
+    ],
+    "safetyTips": [
+      "Warm up wrists and hamstrings thoroughly before max hold attempts."
+    ]
+  },
+  {
+    "id": "ex-21",
+    "name": "Ring Support Hold (RTO)",
+    "category": "Static/Skill",
+    "muscleGroup": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders",
+      "Biceps"
+    ],
+    "difficulty": "Beginner",
+    "equipment": "Rings",
+    "isHold": true,
+    "defaultSets": 3,
+    "defaultValue": 30,
+    "defaultRest": 60,
+    "poseType": "dips",
+    "description": "Rings-turned-out top support building stabilizer control and straight-arm tendon resilience.",
+    "instructions": [
+      "Press to top support on gymnastic rings with arms straight against your sides.",
+      "Rotate palms forward so thumbs point outward (Rings Turned Out).",
+      "Depress shoulders and hold steady without touching straps."
+    ],
+    "mistakes": [
+      "Resting forearms against the ring straps for stability."
+    ],
+    "safetyTips": [
+      "Start with neutral palms if bicep tendons feel strained."
+    ]
+  },
+  {
+    "id": "ex-22",
+    "name": "Tuck Planche Hold",
+    "category": "Static/Skill",
+    "muscleGroup": "Shoulders",
+    "secondaryMuscles": [
+      "Chest",
+      "Abs",
+      "Upper Back"
+    ],
+    "difficulty": "Advanced",
+    "equipment": "Parallettes",
+    "isHold": true,
+    "defaultSets": 4,
+    "defaultValue": 12,
+    "defaultRest": 120,
+    "poseType": "planche",
+    "description": "First full airborne planche milestone balancing body weight over protracted shoulders.",
+    "instructions": [
+      "Grip parallettes, lock elbows completely, and protract shoulder blades.",
+      "Lean shoulders forward until feet lift lightly off the floor with knees tucked.",
+      "Keep hips aligned at shoulder height."
+    ],
+    "mistakes": [
+      "Bending elbows or letting hips pike high above shoulders."
+    ],
+    "safetyTips": [
+      "Allow 48 hours between heavy straight-arm planche sessions."
+    ]
+  },
+  {
+    "id": "ex-23",
+    "name": "Skin the Cat & Tuck Back Lever",
+    "category": "Static/Skill",
+    "muscleGroup": "Rear Delts",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Biceps",
+      "Upper Back"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "Rings",
+    "isHold": true,
+    "defaultSets": 3,
+    "defaultValue": 15,
+    "defaultRest": 90,
+    "poseType": "back_lever",
+    "description": "Shoulder extension mobility and straight-arm posterior tension hold on rings.",
+    "instructions": [
+      "Tuck knees through your arms and rotate inverted until back faces the floor.",
+      "Stop with torso parallel to the ground and arms straight.",
+      "Squeeze glutes and core before rotating back under control."
+    ],
+    "mistakes": [
+      "Dropping too fast into bottom shoulder extension."
+    ],
+    "safetyTips": [
+      "Keep elbows straight only within pain-free bicep tendon tolerance."
+    ]
+  },
+  {
+    "id": "ex-24",
+    "name": "Strict Ring Dips",
+    "category": "Push",
+    "muscleGroup": "Triceps",
+    "secondaryMuscles": [
+      "Chest",
+      "Shoulders"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "Rings",
+    "isHold": false,
+    "defaultSets": 4,
+    "defaultValue": 8,
+    "defaultRest": 90,
+    "poseType": "dips",
+    "description": "Unstable vertical pressing drill demanding intense stabilizer and triceps lockout control.",
+    "instructions": [
+      "Begin in active ring support with rings close to torso.",
+      "Lower smoothly until biceps touch the rings without flaring elbows.",
+      "Press back to full lockout and turn rings out slightly."
+    ],
+    "mistakes": [
+      "Flaring rings wide away from ribs during the press."
+    ],
+    "safetyTips": [
+      "Build a solid 30s RTO support hold before adding full-depth reps."
+    ]
+  },
+  {
+    "id": "ex-25",
+    "name": "Dragon Flag Negatives",
+    "category": "Core",
+    "muscleGroup": "Abs",
+    "secondaryMuscles": [
+      "Lats",
+      "Glutes"
+    ],
+    "difficulty": "Advanced",
+    "equipment": "None",
+    "isHold": false,
+    "defaultSets": 3,
+    "defaultValue": 5,
+    "defaultRest": 120,
+    "poseType": "dragon_flag",
+    "description": "Full-lever anti-extension core exercise lowering a rigid body line from shoulder stand.",
+    "instructions": [
+      "Lie on a bench or mat and grip a solid anchor behind your head.",
+      "Press hips up into a vertical candle line resting only on upper back.",
+      "Lower your entire straight body as slowly as possible without breaking at the hips."
+    ],
+    "mistakes": [
+      "Bending at the waist so lower back touches early.",
+      "Resting weight on the cervical neck."
+    ],
+    "safetyTips": [
+      "Keep weight strictly across upper traps and rear delts, never the neck."
+    ]
+  },
+  {
+    "id": "ex-26",
+    "name": "Bulgarian Split Squat",
+    "category": "Legs",
+    "muscleGroup": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "difficulty": "Beginner",
+    "equipment": "None",
+    "isHold": false,
+    "defaultSets": 3,
+    "defaultValue": 12,
+    "defaultRest": 75,
+    "poseType": "squat",
+    "description": "Single-leg knee and hip dominant squat building unilateral leg drive and balance.",
+    "instructions": [
+      "Rest back laces on a low bench or box and step front foot forward.",
+      "Lower back knee toward the floor while keeping front shin vertical.",
+      "Drive through front mid-foot to full hip extension."
+    ],
+    "mistakes": [
+      "Front knee caving inward or front heel lifting."
+    ],
+    "safetyTips": [
+      "Maintain an upright braced torso throughout the descent."
+    ]
+  },
+  {
+    "id": "ex-27",
+    "name": "Single-Leg Glute Bridge Hold",
+    "category": "Legs",
+    "muscleGroup": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Abs"
+    ],
+    "difficulty": "Beginner",
+    "equipment": "None",
+    "isHold": true,
+    "defaultSets": 3,
+    "defaultValue": 25,
+    "defaultRest": 60,
+    "poseType": "arch_hold",
+    "description": "Posterior hip extension isometric isolating glute max and hamstring stability.",
+    "instructions": [
+      "Lie supine with one foot planted flat and the opposite leg extended.",
+      "Drive through planted heel to lift hips into a straight shoulder-to-knee line.",
+      "Keep pelvis level without dipping on the unsupported side."
+    ],
+    "mistakes": [
+      "Overarching the lumbar spine instead of squeezing glutes."
+    ],
+    "safetyTips": [
+      "Keep ribs tucked down toward pelvis at peak hip height."
+    ]
+  },
+  {
+    "id": "ex-28",
+    "name": "Towel / False-Grip Dead Hang",
+    "category": "Pull",
+    "muscleGroup": "Forearms",
+    "secondaryMuscles": [
+      "Biceps",
+      "Lats"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "Pull-up Bar",
+    "isHold": true,
+    "defaultSets": 3,
+    "defaultValue": 25,
+    "defaultRest": 75,
+    "poseType": "dead_hang",
+    "description": "Wrist-flexed and thick-grip hang conditioning forearm flexors for muscle-up transitions.",
+    "instructions": [
+      "Place the heel of your palms over the top of the bar with wrists flexed.",
+      "Engage shoulders downward and hang with straight arms.",
+      "Hold steady wrist flexion for the prescribed duration."
+    ],
+    "mistakes": [
+      "Letting wrists slip down into a standard finger hang."
+    ],
+    "safetyTips": [
+      "Stretch wrist flexors gently between sets."
+    ]
+  },
+  {
+    "id": "ex-29",
+    "name": "Explosive Clapping Push-Ups",
+    "category": "Push",
+    "muscleGroup": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "difficulty": "Intermediate",
+    "equipment": "None",
+    "isHold": false,
+    "defaultSets": 4,
+    "defaultValue": 6,
+    "defaultRest": 90,
+    "poseType": "pushup",
+    "description": "Plyometric horizontal pressing drill developing fast-twitch upper-body power.",
+    "instructions": [
+      "Lower chest swiftly to the floor with tight core tension.",
+      "Press explosively off the ground so hands clear the floor for a quick clap.",
+      "Land softly with slightly bent elbows directly into the next rep."
+    ],
+    "mistakes": [
+      "Piking hips upward to create air time."
+    ],
+    "safetyTips": [
+      "Perform on a lightly padded surface to absorb wrist impact."
+    ]
+  },
+  {
+    "id": "ex-30",
+    "name": "Wall Handstand Push-Ups (HSPU)",
+    "category": "Push",
+    "muscleGroup": "Shoulders",
+    "secondaryMuscles": [
+      "Triceps",
+      "Upper Back"
+    ],
+    "difficulty": "Advanced",
+    "equipment": "None",
+    "isHold": false,
+    "defaultSets": 4,
+    "defaultValue": 5,
+    "defaultRest": 120,
+    "poseType": "handstand",
+    "description": "Full bodyweight vertical pressing movement building overhead deltoid and triceps strength.",
+    "instructions": [
+      "Kick into a tight hollow handstand against the wall.",
+      "Lower head forward in front of hands until crown gently taps the mat.",
+      "Press smoothly back to stacked overhead lockout."
+    ],
+    "mistakes": [
+      "Arching lower back aggressively during the press."
+    ],
+    "safetyTips": [
+      "Control the eccentric descent; never drop onto your head."
+    ]
+  }
+]
